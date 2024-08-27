@@ -1,0 +1,25 @@
+  Demo3D channel2 ptv
+$l1
+istart  = 1,
+nmax    = 20000,
+rg      = 287.06,
+cpzucv  = 1.4,
+pstart  = 80000,
+vxstar  = 90.0,
+vystar  = 0.0,
+vzstar  = 10.0,
+u1star  =  1.1,
+ft      = 0.30,
+rfd     = 0.10,
+nrfd    = 1,
+rfpin   = 0.00,
+rfpout  = 1.00,
+ermax   = 0.000005,
+pt1     = 100000.0,
+ptvbl   = 0.85,
+tt1     = 300.0,
+pout    = 80000.0
+$end
+
+
+

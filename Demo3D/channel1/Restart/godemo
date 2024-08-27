@@ -1,0 +1,3 @@
+cp ../Start/Demo3D_result.cgns Demo3D_result.cgns
+./Demo3D.exe
+

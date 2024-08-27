@@ -1,0 +1,3 @@
+cp channel2.cgns Demo3D_result.cgns
+./Demo3D.exe
+
