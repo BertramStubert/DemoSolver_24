@@ -1,0 +1,3 @@
+gfortran -I /home/bertram/CGNS/CGNS-3.2.1/src/lib -g -c Demo2DCH.f
+gfortran -o Demo2DCH.exe Demo2DCH.o -L /home/bertram/CGNS/CGNS-3.2.1/src/lib -lcgns
+

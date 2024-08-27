@@ -1,0 +1,22 @@
+  Demo2D Profile alfa0
+$l1
+nmax    = 30000,
+rg      = 287.06,
+cpzucv  = 1.4,
+pstart  = 90000,
+vxstar  = 135.0,
+vystar  =  0.0,
+u1star  =  1.08,
+ft      = 0.30,
+rfd     = 0.15,
+nrfd    = 1000,
+rfpin   = 0.00,
+rfpout  = 1.00,
+ermax   = 0.000005,
+pt1     = 100000.0,
+tt1     = 300.0,
+pout    = 90000.0
+$end
+
+
+

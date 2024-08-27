@@ -1,0 +1,22 @@
+  Demo2D Duct
+$l1
+nmax    = 25000,
+rg      = 287.06,
+cpzucv  = 1.4,
+pstart  = 90000,
+vxstar  = 133.7,
+vystar  =  0.0,
+u1star  =  1.2,
+ft      = 0.30,
+rfd     = 0.15,
+nrfd    = 1000,
+ermax   = 0.000005,
+pt1     = 100000.0,
+tt1     = 300.0,
+rfpin   = 0.0,
+rfpout  = 1.0,
+pout    = 90000.0
+$end
+
+
+
