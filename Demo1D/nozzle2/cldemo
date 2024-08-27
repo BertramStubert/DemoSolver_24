@@ -1,0 +1,3 @@
+gfortran -g -c Demo1D.f
+gfortran -o Demo1D.exe Demo1D.o
+

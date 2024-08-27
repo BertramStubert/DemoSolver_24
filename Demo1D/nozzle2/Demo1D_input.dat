@@ -1,0 +1,22 @@
+  Demo1D nozzle2
+$l1
+nmax    = 25000,
+rg      = 287.06,
+cpzucv  = 1.4,
+pstart  = 90000,
+vxstar  = 50.0,
+u1star  =  1.1,
+ft      = 0.30,
+rfd     = 0.10,
+nrfd    = 100,
+rfpin   = 0.50,
+rfpout  = 0.50,
+ermax   = 0.000005,
+pt1     = 100000.0,
+ptvbl   = 1.0,
+tt1     = 300.0,
+pout    = 80000.0
+$end
+
+
+
