@@ -8,7 +8,7 @@
       common /aero05/ u1m(id,jd),u2m(id,jd),u3m(id,jd)
       common /aero06/ u4m(id,jd),u5m(id,jd)
 
-      common /bcnd01/ pt1,tt1,pout,pinold(jd),rfpin,rfpout
+      common /bcnd01/ pt1,tt1,pout,pinold(jd)
       common /bcnd02/ ptinlt,ttinlt,ptv,ttv
 
       common /solv01/ rla (id,jd),step(id,jd)
@@ -24,7 +24,7 @@
 
       common /array1/ ar1(id,jd),ar2(id,jd)
 
-      common /read01/ rfd,ft,rg,ermax
+      common /read01/ rfd,ft,rg,ermax,rfpin,rfpout
       common /read03/ pstart,vxstar,vystar,u1star
 
       common /ther01/ cpzucv,cp,cv,rcp,rcv
